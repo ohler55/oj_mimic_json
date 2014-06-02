@@ -1,4 +1,3 @@
-
 Gem::Specification.new do |s|
   s.name = "oj_mimic_json"
   s.version = '1.0.1'
