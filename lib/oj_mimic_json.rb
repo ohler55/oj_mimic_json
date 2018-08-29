@@ -1,7 +1,7 @@
 
 require 'oj'
 
-Oj.mimic_JSON()
+Oj.optimize_rails
 # Requiring json here seems to stop conflicts when requiring json in other files.
 begin
   require 'json'
